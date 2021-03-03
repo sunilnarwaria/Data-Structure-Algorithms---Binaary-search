@@ -1,0 +1,2 @@
+Whenever we encounter a sorted Array, List, or Matrix in a coding problem and we are asked to find a specific number,
+we all know that the best algorithm we can use is the binary search.
